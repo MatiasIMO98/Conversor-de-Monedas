@@ -1,4 +1,4 @@
 package com.aluracursos.conversordemonedas.conversor;
 
-public record Conversor(int conversion_rate) {
+public record Conversor(double conversion_rate) {
 }

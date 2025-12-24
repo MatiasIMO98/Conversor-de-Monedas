@@ -33,4 +33,22 @@ public class ExchangeAPI {
             throw new RuntimeException(e.getMessage());
         }
     }
+
+    public void mostrarMenu()
+    {
+        IO.println("""
+                    *************************************************
+                    Escoja una opción para continuar:
+                    
+                    1) Dólar Americano => Peso Argentino (USD -> ARS)
+                    2) Peso Argentino => Dolar Americano (ARS -> USD)
+                    3) Dólar Americano => Real Brasileño (USD -> BRL)
+                    4) Real Brasileño => Dólar Americano (BRL -> USD)
+                    5) Dólar Americano => Peso Chileno (USD -> CLP)
+                    6) Peso Chileno => Dólar Americano (CLP -> USD)
+                    7) Salir
+                    
+                    *************************************************
+                    """);
+    }
 }
