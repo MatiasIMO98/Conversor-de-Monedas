@@ -1,6 +1,7 @@
 <div>
   <em> # Convertidor de Moneda </em>
-  <img src="https://img.freepik.com/vector-premium/icono-convertidor-monedas-dinero-contorno-monedas-dinero-convertidor-vector-icono-color-plano-aislado_96318-73780.jpg">
+  <img src="https://img.freepik.com/vector-premium/icono-convertidor-monedas-dinero-contorno-monedas-dinero-convertidor-vector-icono-color-plano-aislado_96318-73780.jpg"
+    width="256" height="256">
 </div>
 
 
