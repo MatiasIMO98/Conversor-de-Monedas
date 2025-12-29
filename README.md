@@ -19,6 +19,8 @@ Mediante un menú desplegado a través de la consola, con 6 opciones disponibles
 <h2>¿Donde los usuarios pueden encontrar ayuda sobre el proyecto?</h2>
 En caso de problemas o dudas, pueden realizar contacto mediante el correo de mimanriquezortiz@gmail.com
 
-<h2>Autor del proyecto</h2>
+## Autor del proyecto
+| [<img src="https://avatars.githubusercontent.com/u/98727579?v=4" width=64><br><sub>Matias Manriquez Ortiz</sub>] (https://github.com/MatiasIMO98) |
+| :---: |
 Matias Manriquez Ortiz - Ing. Civil Informático <br>
 Estudiante del programa ONE de Oracle y Alura Latam.
