@@ -12,13 +12,13 @@ El sistema permite, mediante un menú por consola, seleccionar la moneda de camb
 
 <h2>Característica Principal</h2>
 Mediante un menú desplegado a través de la consola, con 6 opciones disponibles, es posible convertir de una moneda a otra, principalmente de Dolares americanos a otras monedas, como lo son el Peso Argentino, el Real Brasileño y el Peso Chileno, y viceversa.
-
+<!--
 <h2>Cómo pueden usarlo los usuarios</h2>
+-->
 
-
-<h2>Donde los usuarios pueden encontrar ayuda sobre su proyecto</h2>
+<h2>¿Donde los usuarios pueden encontrar ayuda sobre el proyecto?</h2>
 En caso de problemas o dudas, pueden realizar contacto mediante el correo de mimanriquezortiz@gmail.com
 
 <h2>Autor del proyecto</h2>
-Matias Manriquez Ortiz - Ing. Civil Informático
+Matias Manriquez Ortiz - Ing. Civil Informático <br>
 Estudiante del programa ONE de Oracle y Alura Latam.
